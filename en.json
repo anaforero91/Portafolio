@@ -1,0 +1,19 @@
+{
+    "about-header": "About me",
+    "projects-header": "Projects",
+    "skills-header": "Skills",
+    "contact-header": "Contact me",
+
+    "about-title": "About Me",
+    "about-text": "I am a Full Stack developer, passionate about technology and solving problems through code.\nMy focus is on building functional and visually appealing web applications using technologies such as Java, JavaScript, HTML, and CSS.\nMy previous experience in the biomedical field has given me an analytical and structured mindset—skills I apply to software development to design efficient and well-organized solutions.\nI am currently solidifying my transition into the tech world through an intensive full stack web development bootcamp, where I have worked on collaborative projects applying agile methodologies like Scrum.\nI am motivated by creating accessible and intuitive digital experiences and enjoy the challenge of constant learning.\nI aspire to join a team where I can contribute my knowledge and continue growing as a professional in the technology field.",
+    
+    "projects-title": "Projects",
+    "project1": "El Zafiro Azul is an e-commerce platform designed for wholesale condiment sales.\nIts goal is to help restaurants, distributors, and food service businesses acquire high-quality spices and seasonings quickly and efficiently.\nThis project was developed as a team using the Scrum methodology, ensuring efficient iterations and continuous deliveries.",
+    "project2": "Aquawear is a landing page designed to provide a fast and efficient shopping experience for both professional and amateur swimmers.\nThe platform features an attractive design focused on ease of navigation and customer conversion.",
+
+    "skills-title": "Skills",
+
+    "contact-title": "Contact me"
+
+    
+}

@@ -1,0 +1,17 @@
+{
+    "about-header": "Sobre mí",
+    "projects-header": "Proyectos",
+    "skills-header": "Habilidades",
+    "contact-header": "Contacto",
+
+    "about-title": "Sobre mí",
+    "about-text": "Soy una desarrolladora Full Stack, apasionada por la tecnología y la resolución de problemas a través del código.\nMi enfoque está en la construcción de aplicaciones web funcionales y atractivas, utilizando tecnologías como Java, JavaScript, HTML, CSS y Java.\nMi experiencia previa en el ámbito biomédico me ha dado una mentalidad analítica y estructurada, habilidades que aplico en el desarrollo de software para diseñar soluciones eficientes y bien organizadas.\nActualmente, estoy consolidando mi transición al mundo tech a través de un bootcamp intensivo en desarrollo web full stack, donde he trabajado en proyectos colaborativos aplicando metodologías ágiles como Scrum.\nMe motiva crear experiencias digitales accesibles e intuitivas, y disfruto el desafío de aprender constantemente. Aspiro a integrarme en un equipo donde pueda aportar mis conocimientos y seguir creciendo como profesional en el área de tecnología.",
+   
+    "projects-title": "Proyectos",
+    "project1": "El Zafiro Azul es una plataforma de comercio electrónico diseñada para la venta de condimentos al por mayor.\nSu objetivo es facilitar a restaurantes, distribuidores y negocios gastronómicos la adquisición de especias y condimentos de alta calidad de manera rápida y eficiente.\nEste proyecto fue desarrollado en equipo utilizando la metodología Scrum, asegurando iteraciones eficientes y entregas continuas.",
+    "project2": "Aquawear es una landing page diseñada para ofrecer una experiencia de compra rápida y eficiente a nadadores profesionales y aficionados.\nLa plataforma cuenta con un diseño atractivo, enfocado en la facilidad de navegación y conversión de clientes.",
+
+    "skills-title": "Habilidades",
+
+    "contact-title": "Contacto"
+  }

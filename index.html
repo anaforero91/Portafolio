@@ -13,19 +13,23 @@
         <h1>Ana María Leguizamón</h1>
         <nav>
             <ul>
-                <li><a href="#about">Sobre mí</a></li>
-                <li><a href="#projects">Proyectos</a></li>
-                <li><a href="#skills">Habilidades</a></li>
-                <li><a href="#contact">Contacto</a></li>
+                <li><a href="#about" id="about-header">Sobre mí</a></li>
+                <li><a href="#projects" id="projects-header">Proyectos</a></li>
+                <li><a href="#skills" id="skills-header">Habilidades</a></li>
+                <li><a href="#contact" id="contact-header">Contacto</a></li>
+                <select name="lenguajes" id="lang">        
+                  <option value="en">English</option>
+                  <option value="es">Español</option>
+                </select>
             </ul>
         </nav>
     </header>
     
     <section id="about">
-        <h2>Sobre Mí</h2>
+        <h2 id="about-title">Sobre Mí</h2>
         <div class="about-container">
             <img src="/foto.jpg" alt="Tu Foto" class="profile-pic">
-            <p>Soy una desarrolladora Full Stack, apasionada por la tecnología y la resolución de problemas a través del código.
+            <p id="about-text">Soy una desarrolladora Full Stack, apasionada por la tecnología y la resolución de problemas a través del código.
                  Mi enfoque está en la construcción de aplicaciones web funcionales y atractivas, utilizando tecnologías como
                   Java, JavaScript, HTML, CSS y Java.
                 Mi experiencia previa en el ámbito biomédico me ha dado una mentalidad analítica y estructurada, habilidades que 
@@ -39,11 +43,11 @@
     </section>
     
     <section id="projects">
-        <h2>Proyectos</h2>
+        <h2 id="projects-title">Proyectos</h2>
         <div class="project">
             <img src="/zafi2.JPG" alt="Proyecto 1" class="project-img">
             <h3>E-commerce</h3>
-            <p>El Zafiro Azul es una plataforma de comercio electrónico diseñada para la venta de condimentos al por mayor.
+            <p id="project1">El Zafiro Azul es una plataforma de comercio electrónico diseñada para la venta de condimentos al por mayor.
                  Su objetivo es facilitar a restaurantes, distribuidores y negocios gastronómicos la adquisición de especias
                   y condimentos de alta calidad de manera rápida y eficiente.                
                 Este proyecto fue desarrollado en equipo utilizando la metodología Scrum, asegurando iteraciones eficientes y entregas continuas.</p>
@@ -52,14 +56,14 @@
         <div class="project">
             <img src="/aqua.JPG" alt="Proyecto 2" class="project-img">
             <h3>Landing Page</h3>
-            <p>Aquawear es una landing page diseñada para ofrecer una experiencia de compra rápida y eficiente a nadadores profesionales y aficionados.
+            <p id="project2">Aquawear es una landing page diseñada para ofrecer una experiencia de compra rápida y eficiente a nadadores profesionales y aficionados.
                  La plataforma cuenta con un diseño atractivo, enfocado en la facilidad de navegación y conversión de clientes.</p>
             <a href="https://github.com/AlejandroG095/-AquaWear-Landing-page.git" class="repo-button" target="_blank">Ver en GitHub</a>
         </div>
     </section>
     
     <section id="skills">
-        <h2>Habilidades</h2>
+        <h2 id="skills-title">Habilidades</h2>
         <div class="skills-container">
             <div class="skill">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML">
@@ -85,7 +89,7 @@
     </section>
     
     <section id="contact">
-        <h2>Contacto</h2>
+        <h2 id="contact-title">Contacto</h2>
         <form id="contact-form">
             <input type="text" placeholder="Tu Nombre" required>
             <input type="email" placeholder="Tu Email" required>
